@@ -2,6 +2,10 @@
 
 A real-time AI video avatar tutor that teaches any topic through the Socratic method. Features a unique **Wisdom Orb** — a glowing, morphing crystal character powered by Three.js that responds to speech with lip-synced animation, emotional states, and particle effects.
 
+<img width="726" height="832" alt="Screenshot 2026-03-12 at 10 26 25 AM" src="https://github.com/user-attachments/assets/65781f35-b9ba-4bfb-a77f-59da456156e8" />
+<img width="1648" height="860" alt="Screenshot 2026-03-12 at 10 26 51 AM" src="https://github.com/user-attachments/assets/5bf9f8d3-c726-429a-b20e-6017af9e716d" />
+
+
 ## Quick Start
 
 ```bash
